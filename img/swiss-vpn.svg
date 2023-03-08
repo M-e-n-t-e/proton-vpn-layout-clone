@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79.287" height="92.042" viewBox="0 0 79.287 92.042">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#27DDB1;stroke-miterlimit:10;stroke-width:5px;}
+        </style>
+    </defs>
+    <g id="Group_5028" transform="translate(-675.5 -5257.5)">
+        <g id="Group_3745" transform="translate(678 5260)">
+            <g id="Group_3744">
+                <path id="Line_610" d="M0 0L0 74.287" class="cls-1" transform="translate(0 15.255)"/>
+                <path id="Rectangle_1611" d="M0 0H74.287V53.062H0z" class="cls-1"/>
+            </g>
+            <path id="Line_611" d="M0 0L0 27.194" class="cls-1" transform="translate(37.143 13.265)"/>
+            <path id="Line_612" d="M27.194 0L0 0" class="cls-1" transform="translate(23.546 26.863)"/>
+        </g>
+    </g>
+</svg>
