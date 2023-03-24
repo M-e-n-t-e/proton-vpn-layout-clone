@@ -5,6 +5,9 @@
     font-family: "Poppins", sans-serif;
     color: #372580;
 }
+body {
+    overflow-x: hidden;
+}
 header {
     position: sticky;
     top: 0;
