@@ -243,7 +243,7 @@ header {
 }
 #d-title {
     font-size: 2rem;
-    padding: 2.5rem 0;
+    padding: 2.5rem 1rem;
     font-weight: 600;
     color: #372580;
 }
@@ -300,6 +300,7 @@ header {
     color: #6d4aff;
 }
 .how-to-use-P {
+    padding: 0 1rem;
     padding-top: 48px;
     width: 100%;
     display: flex;
@@ -327,7 +328,7 @@ header {
     font-size: 2rem;
     font-weight: 600;
     color: #372580;
-    padding-top: 2rem;
+    padding: 1rem;
     background-color: #f7f5ff;
     display: block;
 }
@@ -480,6 +481,7 @@ header {
     width: 80%;
 }
 .secure-your-internet {
+    padding: 0 1rem;
     min-height: 25rem;
     display: flex;
     justify-content: center;
@@ -533,6 +535,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 0 1rem;
 }
 .tdlg-title h1 {
     font-size: 2rem;
@@ -661,8 +664,10 @@ header {
     text-align: center;
     font-size: 2rem;
     margin-bottom: 5rem;
+    padding: 0 1rem;
 }
 .dawv-4 {
+    padding: 0 1rem;
     display: flex;
     justify-content: space-evenly;
     max-width: 70rem;
@@ -925,7 +930,7 @@ header {
     .hero-img-div,
     .hero-img {
         overflow: visible;
-        width: 80%;
+        width: 95%;
         margin: auto;
     }
     .htup-2nd-col {
@@ -985,7 +990,11 @@ header {
         gap: 2rem;
         width: 100%;
     }
+    .secure-your-internet p{
+        padding: 0 10px;
+    }
     .secure-your-internet {
+        padding: 1rem 0;
         flex-direction: column;
         align-items: left;
         text-align: left;
@@ -1021,6 +1030,7 @@ header {
         background-color: #f7f5ff;
         flex-direction: column;
         align-items: center;
+        justify-content: center;
     }
     .list-of-sthn p {
         font-size: 1.5rem;
@@ -1028,16 +1038,25 @@ header {
         text-align: center;
     }
     .los-container {
+        display: block;
+        width: 100%;
+        margin: auto;
         flex-direction: column;
         align-items: center;
         margin: auto;
-        text-align: center;
+        margin-left: 10%;
+    }
+    .los-tribute {
+        margin-top: 2rem;
+        width: 80%;
     }
     .los-tribute p {
+        display: block;
         font-weight: 600;
         font-size: 1.5rem;
     }
     .los-tribute ul li {
+        display: block;
         font-size: 1.2rem;
     }
     .out-of-los-contact {
